@@ -1,16 +1,8 @@
 # kuliah_tpm
 
-A new Flutter project.
+Rahel Anatasya sinaga - 123220018
+Dea Regina - 123220020
+Naufal Rafid Muhammad Faddila - 123220052
+R Fiuw Winlye Ferdiansyah - 123220098
+Link ppt Canva : https://www.canva.com/design/DAGgNt39VzA/o5TuRh-Rcj1Y4wzVCO4zlA/edit
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
